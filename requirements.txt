@@ -1,0 +1,7 @@
+opencv-contrib-python
+numpy
+imutils
+matplotlib
+# GPU pipeline only
+pyopencl
+silx
